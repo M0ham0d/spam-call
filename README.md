@@ -13,6 +13,6 @@
 * ls
 * cd spam-call
 * ls
-* python2 spam-call /python3 spam-call /python spam-call
+* python2 spam-call.py /python3 spam-call.py /python spam-call.py
 
 ![Screenshot_٢٠٢٢٠٧٢٦-١٣٤٥٠٤](https://user-images.githubusercontent.com/110033240/180998810-5cc666f3-ab02-4a79-b295-ee51baff1f78.jpg)
